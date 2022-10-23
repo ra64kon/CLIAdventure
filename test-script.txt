@@ -1,5 +1,5 @@
-clear
-add 32342 443
-add 4 4
-add 88 12
-
+add-room Garten "Dies ist mein Garten"
+show
+add-room Wiese "Dies ist eine Wiese"
+add-room Haus "Dies ist mein Haus"
+show

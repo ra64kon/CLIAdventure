@@ -38,3 +38,51 @@
 1666267027133:exit
 1666267174838:go
 1666267648494:exit
+1666538802263:help
+1666538819414:show
+1666538864093:addRoom Garten "Das ist der Garten"
+1666538880935:addRoom Garten Das_ist_der_Garten
+1666538884914:help
+1666538914654:help addRoom
+1666538925725:help
+1666538969211:add-room Garten "Das ist mein Garten."
+1666538973635:show
+1666539133601:add-room garten "Das ist mein Garten."
+1666539141133:show
+1666539283580:add-room Wiese "Das ist eine Wiese."
+1666539286991:show
+1666539441044:help
+1666539484606:show
+1666539522575:add-room Garten "Hier ist mein Garten"
+1666539537109:show
+1666539922674:add-room Garten "Ja, ein Garten!"
+1666539926360:show
+1666539954291:add-room Wiese "Ja, eine stink normale Wiese"
+1666539958106:show
+1666540061840:add-room Garten "jo, Garten!"
+1666540065935:show
+1666540099905:add-room Wiese "Meine Wiese!"
+1666540104044:show
+1666540121040:add-room Wiese " Wiese!"
+1666540126800:show
+1666540140592:add-room Wiese2 " Wiese!"
+1666540215308:show
+1666540231701:add-room garten "g1"
+1666540253315:add-room wiese1 "w1"
+1666540265797:show
+1666540269166:add-room wiese1 "w1"
+1666540271324:show
+1666540278379:add-room wiese2 "w2"
+1666540280820:show
+1666541007576:add-room Garten "G1"
+1666541029285:show
+1666541092284:add-room Haus "h1"
+1666541095326:show
+1666541121580:add-room Wiese "w1"
+1666541130757:show
+1666541143761:add-room Wiese "w1"
+1666541147841:show
+1666541152279:add-room Wiese "w1"
+1666541155121:show
+1666541176592:add-room Garten "g21"
+1666541179540:show
